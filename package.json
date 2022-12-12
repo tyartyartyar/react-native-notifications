@@ -1,7 +1,7 @@
 {
-  "name": "react-native-notifications",
+  "name": "tyartyartyar/react-native-notifications",
   "version": "4.3.3",
-  "description": "Advanced Push Notifications (Silent, interactive notifications) for iOS & Android",
+  "description": "Forked from wix/react-native-notifications - Advanced Push Notifications (Silent, interactive notifications) for iOS & Android",
   "license": "MIT",
   "keywords": [
     "react-component",
